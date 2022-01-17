@@ -1,0 +1,30 @@
+{
+    "name": "webfontconv",
+    "version": "1.0.0",
+    "description": "Convent ttf or otf to webfont kits",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DreamOfIce/webfontConv.git"
+    },
+    "keywords": [
+        "font",
+        "ttf",
+        "svg",
+        "woff",
+        "eot",
+        "otf"
+    ],
+    "author": "冰雪殇璃陌梦",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/DreamOfIce/webfontConv/issues"
+    },
+    "homepage": "https://github.com/DreamOfIce/webfontConv#readme",
+    "dependencies": {
+        "fonteditor-core": "^2.1.8"
+    }
+}
